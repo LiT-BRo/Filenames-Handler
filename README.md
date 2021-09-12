@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/LiT-BRo/Filenames-Handler/main/Misc/Elements(v0.1).png" alt="Elements-Number-Labled" width="400"/>
 
 ## About
-This is a fairly simple program with very simple instructions to follow. It's main purpose is to provide the user with a list of names of all files present in a directory with their extensions. It serves as a quick version control system as managing (Eg. downloaded) files can sometimes get very messy and can serve as a reference point of raw data which can further be processed  in which-ever way the user demands.
+This is a fairly simple program with very simple instructions to follow. It's main purpose is to provide the user with a list of names of all files present in a directory with their extensions. It serves as a quick version control system as managing (Eg. downloaded) files can sometimes get very messy and can serve as a reference point of raw data which can further be processed  in which-ever way the user wishes.
 
 ## Elements, buttons and functions
 
@@ -13,7 +13,7 @@ This is a fairly simple program with very simple instructions to follow. It's ma
 4) **Clear:** *Resets the queue of files and directories selected.*
 
 ## Instructions
-- #### **Come on! Do you seriously need instructions for a program with 2 buttons. ^___^**
+- #### **Come on! Do you seriously need instructions for a program with 3 buttons. ^___^**
 
 ## Change-Log
 > ### [v0.0.1](https://github.com/LiT-BRo/Filenames-Handler/tree/main/(v0.0.1)) (31-08-21):
