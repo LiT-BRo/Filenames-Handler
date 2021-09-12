@@ -13,3 +13,7 @@ This is a fairly simple program with very simple instructions to follow. It's ma
 
 ## Instructions
 - #### **Come on! Do you seriously need instructions for a program with 2 buttons. ^___^**
+
+## Change-Log
+> ### [v0.0.1](https://github.com/LiT-BRo/Filenames-Handler/tree/main/(v0.0.1)) (31-08-21):
+> -  **Main-Release:** *Main-Program Intoduced.*
